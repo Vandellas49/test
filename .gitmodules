@@ -1,0 +1,3 @@
+[submodule "lbs/test"]
+	path = lbs/test
+	url = https://github.com/Vandellas49/LibraryAPI
